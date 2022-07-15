@@ -3,13 +3,30 @@ This is a Web3 based blockChain project.
 
 Here, we can send crypto currencies to any address accross the world
 
-# Tech Stack Used
+# Technologies Used
+<hr>
+<ul>
+  <li>ReactJS</li>
+  <li>Solidity</li>
+  <li>Vite</li>
+  <li>Hardhat</li>
+  <li>Ethereum Smart Contract</li>
+</ul>
+<br>
+## Utils
+<li>MetaMask Wallet</li>
+<li>Goerli Test Faucet</li>
+<li>Alchemy blockchain API for Ethereum</li>
+<br>
 <div>
-  <img width="1067" alt="image" src="https://user-images.githubusercontent.com/70129000/179238996-c15f908b-b415-4010-9dc2-b48c63ec1365.png" align="center">
-  <img width="1067" alt="image" src="https://user-images.githubusercontent.com/70129000/179239238-47c9b9c4-6276-49cd-97b3-a7f61ae60958.png" align="center">
-  <img width="1069" alt="image" src="https://user-images.githubusercontent.com/70129000/179239371-5fa4f1a8-7fef-4f9f-afe4-0aee36b4eb2b.png">
-<img width="1078" alt="image" src="https://user-images.githubusercontent.com/70129000/179239474-5df44f35-7325-4e93-ac53-d909f4ec4fc1.png">
-
-
+  <h3>Impressive Design</h3>
+  <p>Conists of a form input to take the address to send the currency to a wallet</p>
+  <img width="600" alt="image" src="https://user-images.githubusercontent.com/70129000/179239638-e2bed448-ff67-4651-9d54-3034af622d88.png" align="center">
+  <img width="600" alt="image" src="https://user-images.githubusercontent.com/70129000/179239710-259b0c11-a264-40ec-a157-f51beecdd2aa.png" align="center">
+  
+  <br>
+  <h4>List of recent transactions made</h4>
+  <img width="600" alt="image" src="https://user-images.githubusercontent.com/70129000/179239957-24693124-5d85-4089-870a-b207aaca094c.png" align="center">
+  <img width="600" alt="image" src="https://user-images.githubusercontent.com/70129000/179240124-899db8f1-800e-44d3-babb-d9f8e7b96573.png" align="center">
 </div>
 
