@@ -6,6 +6,7 @@ Here, we can send crypto currencies to any address accross the world
 # Technologies Used
 <ul>
   <li>ReactJS</li>
+  <li>NodeJS</li>
   <li>Solidity</li>
   <li>Vite</li>
   <li>Hardhat</li>
